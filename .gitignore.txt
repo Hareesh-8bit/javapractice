@@ -1,0 +1,4 @@
+# Generated folders
+*/.settings/
+*/.project
+*/.classpath
